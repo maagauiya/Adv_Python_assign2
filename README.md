@@ -5,6 +5,7 @@ pip install requests<br />
 pip install selenium<br />
 pip install beautifulsoup4<br />
 ChromeDriver(https://sites.google.com/a/chromium.org/chromedriver/downloads)<br/>
+###### **Note that you should download ChromeDriver and move to the folder with the code**
 
 **Usage**<br />
 import requests<br />
