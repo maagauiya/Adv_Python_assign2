@@ -15,9 +15,9 @@ from bs4 import BeautifulSoup<br />
 Enter the name of the cryptocurrency you want to see the latest news about<br/>
 #input Bitcoin
 #output
-<font size="3">
-                                      ===================LAST NEWS======================
-Title:
+
+######                                      ===================LAST NEWS======================
+###### Title:
 Vitalik Buterin: El Salvador's Bitcoin Approach Is 'Contrary to the Ideals' of Crypto
 In a surprise Reddit post on Friday, Ethereum co-founder Vitalik Buterin had strong words for El Salvador's Bitcoin rollout, and specifically President Nayib Bukele for forcing local businesses to accept the top cryptocurrency.
 After a Reddit user on the r/cryptocurrency subreddit posted: "Unpopular opinion: El Salvador president Mr Nayab (sic) Bukele should not be praised 
@@ -72,4 +72,4 @@ levels, including the 51109.18 area that represents the 61.8% retracement of the
 Stops above key technical levels in recent trading sessions, including the 44697, 46272, 46849, 47847, 49795, 50089, 51109, and 52944 levels.  Buying pressure has also taken place around the 50-hour simple moving average in recent trading sessions.
 Additional upside retracement levels and areas of potential technical resistance include the 56379.64 and 57173.81 levels.  Following the pair’s recent gains, downside retracement levels and areas of potential technical support …
 ==================================================================================================
-</font> 
+
