@@ -16,8 +16,8 @@ from bs4 import BeautifulSoup<br />
 
 **Examples**<br />
 Enter the name of the cryptocurrency you want to see the latest news about<br/>
-#input Bitcoin
-#output
+#input Bitcoin<br/>
+**#output**
 
 ######                                     ===================LAST NEWS======================
 ###### Title:
