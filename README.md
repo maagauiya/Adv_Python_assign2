@@ -30,7 +30,7 @@ Enter the name of the cryptocurrency you want to see the latest news about<br/>
 ###### And Buterin isn't the only voice in crypto speaking out about the contradictions in forcing an open, decentralized technology on business owners.   
 ###### At the TOKEN2049 conference in London just this week, Blockchain.com co-founder Nicolas Cary said during a panel, "I think there’s some valid criticisms of how the program is rolled out in El Salvador in terms of being top down. One of the main ethos of crypto is that there’s really grassroots adoption, and people are doing it voluntarily."
 ###### Buterin didn't stop at his first post. Further down in the same thread, when the original poster commented: "It's like [Bukele] pushed it because he bought at cheaper price and knew a country adopting a crypto would alone take the price high enough to make him rich," Buterin replied, "Simpler and dumber hypothesis: both for political reasons and because he's a human being like the rest of us, he just loves being praised by people he considers powerful (ie. Americans). Bitcoin maximalists are a very easy community to get to praise you: you just have to be in a position of power and do or say nice things about them and their coin."
-######The original poster replied to Buterin: "Elon did the same exact thing, now Bukele exploiting emotions of the community."
+###### The original poster replied to Buterin: "Elon did the same exact thing, now Bukele exploiting emotions of the community."
 ###### ==================================================================================================
 ###### Title:
 ###### Powerbridge Technologies Set To Launch Bitcoin And Ethereum Mining In Hong Kong
