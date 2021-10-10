@@ -15,6 +15,7 @@ from bs4 import BeautifulSoup<br />
 Enter the name of the cryptocurrency you want to see the latest news about<br/>
 #input Bitcoin
 #output
+<font size="3">
                                       ===================LAST NEWS======================
 Title:
 Vitalik Buterin: El Salvador's Bitcoin Approach Is 'Contrary to the Ideals' of Crypto
@@ -62,7 +63,6 @@ has been flat with money flowing out of longer-term bonds suggesting the risk-on
 Overall, the trend in fundamental, technicals, and on-chain remain firmly bullish, as the long term holders firmly held despite this year’s severe drawdowns, FUD, liquidation events, and uncertainty. The recent price action has shown the bulls are firmly gaining back control from the bears. The 
 outperformance of Bitcoin relative to other risk assets during major risk-off events in September is a major sign of strength for the largest cryptocurrency, suggesting continuing outperformance once markets resume risk on.
 The weekly close relative to $52.9k will likely determine BTC’s direction for the coming weeks.
-
 Sign-up FREE to receive our extended weekly market update and coin analysis report
 ==================================================================================================
 Title:
@@ -72,3 +72,4 @@ levels, including the 51109.18 area that represents the 61.8% retracement of the
 Stops above key technical levels in recent trading sessions, including the 44697, 46272, 46849, 47847, 49795, 50089, 51109, and 52944 levels.  Buying pressure has also taken place around the 50-hour simple moving average in recent trading sessions.
 Additional upside retracement levels and areas of potential technical resistance include the 56379.64 and 57173.81 levels.  Following the pair’s recent gains, downside retracement levels and areas of potential technical support …
 ==================================================================================================
+</font> 
